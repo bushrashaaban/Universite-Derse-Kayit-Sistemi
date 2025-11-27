@@ -1,4 +1,4 @@
---  ÜNİVERSİTE DERS KAYIT VE YÖNETİM SİSTEMİ
+--  ÜNİVERSİTE DERSE KAYIT SİSTEMİ
 -- MS SQL Server kullanılarak geliştirilmiş; öğrenci, akademisyen, 
 -- ders seçimi ve notlandırma süreçlerini içeren veritabanı projesi.
 CREATE DATABASE Universite_d_k_s;
